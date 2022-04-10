@@ -2,3 +2,4 @@
 
 * Causal impact with R
 * Keras
+* GCP BigQuery
